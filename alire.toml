@@ -1,0 +1,14 @@
+name = "ada_replace"
+description = "Find and replace code patterns in an Ada file or project."
+version = "22.0.0"
+licenses = "BSD-3-Clause"
+website = "https://github.com/byterendition/Ada_Replace"
+tags = ["manipulation", "transformation"]
+
+authors = ["Erik Stens"]
+maintainers = ["Erik Stens <erik.stens@nexperia.com>"]
+maintainers-logins = ["byterendition"]
+
+[[depends-on]]
+libadalang = "^22.0.0"
+rejuvenation = "^22.0.0"

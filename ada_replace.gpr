@@ -1,4 +1,4 @@
-with "..\Rejuvenation\Rejuvenation_Lib\rejuvenation.gpr";
+with "config\ada_replace_config.gpr";
 
 project Ada_Replace is
 
